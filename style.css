@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    background-color: aqua;
+    align-content: flex-end;
+}
+
+.link{
+    padding: 3px 10px;
+    border: 3px solid;
+    text-decoration: none;
+    display:inline-flex;
+    margin-left: 25px;
+    margin-top:5px;
+}
+.link:hover{
+    color:firebrick;
+    transition: 1s;
+    padding-top: 5px 10px;
+    background-color: black;
+}
+
+img{
+    padding: 5px 6px;
+    margin: 6px;
+    width: 100px;
+}
+.paraGraph{
+    font-family: monospace;
+    color: blueviolet;
+    justify-content: center;
+    align-content: center;
+    margin-left:400px;
+    margin-top 50px
+}
+
+h1{
+    font-family: monospace;
+    color: black;
+    margin-left:400px;
+    margin-top: 50px;
+    
+}
+
+
+
